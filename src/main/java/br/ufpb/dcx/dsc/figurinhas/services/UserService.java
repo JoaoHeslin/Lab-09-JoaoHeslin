@@ -1,7 +1,5 @@
 package br.ufpb.dcx.dsc.figurinhas.services;
 
-import br.ufpb.dcx.dsc.figurinhas.models.Album;
-import br.ufpb.dcx.dsc.figurinhas.models.Figurinha;
 import br.ufpb.dcx.dsc.figurinhas.models.Photo;
 import br.ufpb.dcx.dsc.figurinhas.models.User;
 import br.ufpb.dcx.dsc.figurinhas.repository.AlbumRepository;
@@ -10,7 +8,6 @@ import br.ufpb.dcx.dsc.figurinhas.repository.PhotoRepository;
 import br.ufpb.dcx.dsc.figurinhas.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
-import java.util.Collection;
 import java.util.List;
 import java.util.Optional;
 

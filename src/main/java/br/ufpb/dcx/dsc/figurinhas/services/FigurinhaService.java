@@ -8,7 +8,6 @@ import java.util.*;
 
 @Service
 public class FigurinhaService {
-    private final ArrayList<Figurinha> figurinhaList= new ArrayList<>();
     private FigurinhaRepository figurinhaRepository;
 
     public FigurinhaService(FigurinhaRepository figurinhaRepository){

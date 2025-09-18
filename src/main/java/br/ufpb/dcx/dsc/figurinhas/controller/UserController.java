@@ -2,7 +2,6 @@ package br.ufpb.dcx.dsc.figurinhas.controller;
 
 
 import br.ufpb.dcx.dsc.figurinhas.dto.UserDTO;
-import br.ufpb.dcx.dsc.figurinhas.models.Album;
 import br.ufpb.dcx.dsc.figurinhas.models.User;
 import br.ufpb.dcx.dsc.figurinhas.services.UserService;
 import org.modelmapper.ModelMapper;
