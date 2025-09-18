@@ -1,6 +1,5 @@
 package br.ufpb.dcx.dsc.figurinhas.config;
 
-
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -10,7 +10,7 @@ import java.util.Date;
 public class JwtUtil {
 
     private final String SECRET = "minhaChaveSuperSecretaParaJwtQueDeveTerMaisDe32Caracteres";
-    private final long EXPIRATION = 1000 * 60 * 60; // 1 hora
+    private final long EXPIRATION = 1000 * 60 * 60;
     private final Key key = Keys.hmacShaKeyFor(SECRET.getBytes());
 
     public String generateToken(String username) {

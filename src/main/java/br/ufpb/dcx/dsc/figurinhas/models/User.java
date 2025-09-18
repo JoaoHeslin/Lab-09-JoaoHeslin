@@ -1,5 +1,4 @@
 package br.ufpb.dcx.dsc.figurinhas.models;
-
 import jakarta.persistence.*;
 import java.util.List;
 

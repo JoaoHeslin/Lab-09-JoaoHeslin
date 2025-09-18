@@ -1,6 +1,5 @@
 package br.ufpb.dcx.dsc.figurinhas.controller;
 
-
 import br.ufpb.dcx.dsc.figurinhas.models.User;
 import br.ufpb.dcx.dsc.figurinhas.repository.UserRepository;
 import br.ufpb.dcx.dsc.figurinhas.security.JwtUtil;

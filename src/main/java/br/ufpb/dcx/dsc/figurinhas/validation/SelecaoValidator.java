@@ -2,7 +2,6 @@ package br.ufpb.dcx.dsc.figurinhas.validation;
 
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 

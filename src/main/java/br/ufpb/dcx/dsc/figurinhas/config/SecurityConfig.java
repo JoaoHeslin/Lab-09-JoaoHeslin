@@ -1,6 +1,5 @@
 package br.ufpb.dcx.dsc.figurinhas.config;
 
-
 import br.ufpb.dcx.dsc.figurinhas.security.JwtAuthFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
